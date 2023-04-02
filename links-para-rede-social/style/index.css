@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+    
+}
+
+.hero{
+    width: 414px;
+    height: 856px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.profileImg{
+    width: 200px;
+    height: 200px;
+    margin-top: 56px; 
+    border: 2px solid #BB99DD;
+    border-radius: 50%;
+    padding: 6px;
+}
+
+.linkInstagram{
+    display: block;
+    font-size: 16px;
+    color: #BB99DD;
+    margin-top: 15px;
+    margin-bottom: 33px;
+}
+
+.divLinks{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 68px;
+}
+.divLinks a{
+    font-size: 16px;
+    font-weight: 600;
+    color: #BB99DD;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    width: 326px;
+    padding: 12px 0px ;
+    margin: 0 auto 16px;
+    
+}
+
+.divLogos{
+    width: 236px;;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+   
+}
