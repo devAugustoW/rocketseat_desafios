@@ -165,7 +165,7 @@ experience-span-2{
     width: 952px;
     height: 86px;
     background-color: #302F3D;
-    box-shadow: 2px 2px 2px #302F3D;
+    box-shadow: 2px 2px 2px #000000d3;
     border-radius: 20px;
 
     margin-top: 40px;
@@ -184,4 +184,78 @@ experience-span-2{
 .my-projects a:hover{
     color: #6b6979;
 
+}
+
+
+.container-my-onix{
+    width: 952px;
+    height: 186px;
+    background-color: #22212C;
+
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 40px 30px 60px;
+}
+.my-onix{
+    width: 461px;
+    height: 186px;
+    background-color: #302F3D;
+    box-shadow: 2px 2px 2px #000000d3;
+    border-radius: 20px;
+  
+}
+.my-onix-folder{
+    display: flex;
+    align-items: center;
+    margin: 30px 0 20px 30px;
+
+    font-size: 20px;
+}
+.my-onix-folder h4{
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+    margin-left: 16px;
+}
+
+.my-onix P{
+    font-size: 14px;
+    line-height: 20px;
+    
+    width: 421px;
+    margin: 0px 10px 0px 30px;
+}
+
+.my-onix-footer{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin-top: 30px;
+}
+.clipper{
+    display: flex;
+    width: 48px;
+    margin-left: 30px;
+    margin-right: 16px;
+    
+}
+
+.clipper p{
+    margin: 0 0 0 8px;
+}
+.clipperTech{
+    display: flex;
+    width: 96px;
+    margin-left: 151px;
+}
+.clipperTech i{
+    color: yellow;
+    border: 3px solid #6b6979;;
+    border-radius: 50%;
+    
+}
+.clipperTech p{
+    margin: 0 0 0 8px;
 }
