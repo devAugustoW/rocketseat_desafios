@@ -32,7 +32,7 @@ O site pode ser visualizado no link abaixo:<br>
 <a href="https://devaugustow.github.io/rocketseat_desafios/portfoli/index.html">https://devaugustow.github.io/rocketseat_desafios/portfolio/index.html</a><br><br>
 
 <div>
-    <img src="portfolio/img/imgReadme.jpg">
+    <img src="portfolio/img/imgreadme.jpg">
 </div><br><br>
 
 
