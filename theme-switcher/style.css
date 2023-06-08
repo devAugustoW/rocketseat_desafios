@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root {
+	--dark: #292C35;
+	--light: #F1F1F1;
+	--label: #111;
+
+    font-size: 62.5%;
+}
+
+body {
+    background-color: var(--dark);
+    width: 100vw;
+    height: 100vh;   
+}
+
+.toggle {
+    
+}
+
+.toggle input {
+    background: var(--label);
+    width: 50rem;
+    height: 10rem;
+
+    border-radius: ;
+}
